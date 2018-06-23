@@ -3,9 +3,9 @@
 All Content is provided by the Department of Law(DOL). Any unethical, immoral 
 laws, please report to HR DOL’s immediately. 
 
-## General Laws: 
+## General Laws 
  
-### Burglary: 
+### Burglary
 A act which you intentionally force goods or money from someone. Burglary is 
 considered when there is no force that isn’t robbery.  
 Sentence: 
@@ -13,7 +13,7 @@ Sentence:
 return of the Goods. Must be undamaged, or paying back depends on how much the 
 Goods are. 
  
-### Robbery: 
+### Robbery
 A act which you seize goods by force. It is considered Robbery when it is a high use of 
 force.  
 Sentence: 
@@ -30,7 +30,7 @@ Levels of Robbery:
 ???+ fail "High Robbery"
     Stealing anything more than 500 Emeralds of Money 
  
-### Heist: 
+### Heist
 A more extreme form of Robbery, using Class III or more weapons are considered a 
 Heist. There are no levels of a Heist. It is one of the worst crimes to do. 
 Sentence: 
