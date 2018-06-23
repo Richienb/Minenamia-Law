@@ -12,7 +12,8 @@ theme:
 
 # Page Tree
 pages:
-    - Home: index.md
+    - Law: index.md
+    - Weapon Classes: weapon-classes.md
 
 extra_css:
   - css/details-support.css
