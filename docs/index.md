@@ -27,7 +27,7 @@ Levels of Robbery:
 ???+ warning "Medium Robbery"
     Stealing less than 500 Emeralds worth of Money
     
-???+ fail "High Robbery"
+???+ failure "High Robbery"
     Stealing anything more than 500 Emeralds of Money 
  
 ### Heist
