@@ -25,11 +25,11 @@ Levels of Robbery:
     Stealing less than 100 Emeralds worth of Money. 
 
 ???+ warning "Medium Robbery"
-    Stealing less than 500 Emeralds worth of Money
+    Stealing less than 500 Emeralds worth of Money.
     
 ???+ failure "High Robbery"
-    Stealing anything more than 500 Emeralds of Money 
- 
+    Stealing anything more than 500 Emeralds of Money.
+
 ### Heist
 A more extreme form of Robbery, using Class III or more weapons are considered a 
 Heist. There are no levels of a Heist. It is one of the worst crimes to do. 
