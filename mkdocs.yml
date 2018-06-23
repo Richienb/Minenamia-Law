@@ -8,7 +8,7 @@ copyright: 'Copyright &copy; 2018 Mattcre And Richie Bendall'
 
 # Configuration
 theme:
-  name: readthedocs
+  name: 'bootstrap386'
 
 # Page Tree
 pages:
