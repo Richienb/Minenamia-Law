@@ -1,4 +1,4 @@
 mkdocs
-mkdocs-material
+mkdocs-bootstrap386
 pymdown-extensions
 Pygments
