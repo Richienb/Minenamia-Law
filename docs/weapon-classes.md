@@ -22,4 +22,4 @@ ask a HR of that department.
     Weapons that are made by the Government. 
     
 ???+ info "Class X"  
-    All Swords and Handguns. 
+    Weapons that are made from the Government. 
