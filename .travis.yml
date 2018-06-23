@@ -8,6 +8,9 @@ python:
 branches:
   - master
 
+script:
+  - null
+
 before_deploy:
   - mkdocs build --verbose --clean --strict
 
