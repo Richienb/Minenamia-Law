@@ -1,5 +1,7 @@
 # Minenamia Law
 
+[![Join Minenamia Law Chatroom](https://img.shields.io/badge/Discord-Join%20Server-7289DA.svg?longCache=true&style=for-the-badge)](https://discord.gg/tGRFuFu)
+
 All Content is provided by the Department of Law(DOL). Any unethical, immoral
 laws, please report to HR DOL’s immediately.
 
