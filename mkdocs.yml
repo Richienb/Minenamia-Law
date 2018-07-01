@@ -13,6 +13,7 @@ theme:
 # Page Tree
 pages:
     - Law: index.md
+    - Departments: departments.md
     - Weapon Classes: weapon-classes.md
 
 docs_dir: 'law'
