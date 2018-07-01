@@ -16,6 +16,7 @@ pages:
     - Departments: departments.md
     - Weapon Classes: weapon-classes.md
 
+# Set law directory to law instead of docs
 docs_dir: 'law'
 
 # Details Support
