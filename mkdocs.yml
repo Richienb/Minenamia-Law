@@ -15,6 +15,8 @@ pages:
     - Law: index.md
     - Weapon Classes: weapon-classes.md
 
+docs_dir: 'law'
+
 # Details Support
 extra_css:
   - css/details-support.css
