@@ -11,7 +11,7 @@ theme:
   name: 'bootstrap386'
 
 # Page Tree
-pages:
+nav:
     - Law: index.md
     - Departments: departments.md
     - Weapon Classes: weapon-classes.md
@@ -21,10 +21,10 @@ docs_dir: 'law'
 
 # Details Support
 extra_css:
-  - css/details-support.css
+  - "https://cdn.rawgit.com/Richienb/0fc224502155f1f69973c473d5b5c90b/raw/ef234f31347da21d59bf05df308c7f46de7b2807/pymdown-details-polyfill.min.css"
 
 extra_javascript:
-  - js/details-support.js
+  - "https://cdn.rawgit.com/Richienb/0fc224502155f1f69973c473d5b5c90b/raw/1595668df391647b3db06c4179600a29c463870b/pymdown-details-polyfill.min.js"
 
 # Extensions
 markdown_extensions:
