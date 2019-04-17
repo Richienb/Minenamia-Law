@@ -21,10 +21,10 @@ docs_dir:               'law'
 
 # Details Support
 extra_css:
-  - "https://cdn.jsdelivr.net/gh/Richienb/pedp@0.0.1/pedp.min.css"
+  - "https://unpkg.com/pedp@0.0.1/pedp.min.css"
 
 extra_javascript:
-  - "https://cdn.jsdelivr.net/gh/Richienb/pedp@0.0.1/pedp.min.js"
+  - "https://unpkg.com/pedp@0.0.1/pedp.min.js"
 
 # Extensions
 markdown_extensions:
