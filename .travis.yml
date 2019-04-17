@@ -1,19 +1,14 @@
 language:          python
 
-python:
-  - 3.6.7
+python:            3.7
 
-branches:
-  - master
+branches:          master
 
-install:
-  - pip install -r requirements.txt
+install:           pip install -r requirements.txt
 
-script:
-  - null
+script:            true
 
-before_deploy:
-  - mkdocs build --verbose --clean --strict
+before_deploy:     mkdocs build --verbose --clean --strict
 
 deploy:
   provider:        pages

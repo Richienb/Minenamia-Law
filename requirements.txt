@@ -1,4 +1,4 @@
-mkdocs
-mkdocs-bootstrap386
-pymdown-extensions
-Pygments
+mkdocs~=1.0.4
+mkdocs-bootstrap386~=0.0.1
+pymdown-extensions~=6.0
+Pygments~=2.3.1

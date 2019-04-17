@@ -1,56 +1,56 @@
 # Project Information
-site_name: Minenamia Law
-site_description: All Content is provided by the Department of Law(DOL). Any unethical, immoral laws, please report to HR DOL’s immediately.
-site_url: https://www.minenamia-law.tk
+site_name:              Minenamia Law
+site_description:       All Content is provided by the Department of Law(DOL). Any unethical, immoral laws, please report to HR DOL’s immediately.
+site_url:               https://www.minenamia-law.tk
 
 # Copyright
-copyright: 'Copyright &copy; 2018 Mattcre And Richie Bendall'
+copyright:              'Copyright &copy; 2018 Mattcre And Richie Bendall'
 
 # Configuration
 theme:
-  name: 'bootstrap386'
+  name:                 'bootstrap386'
 
 # Page Tree
 nav:
-    - Law: index.md
-    - Departments: departments.md
-    - Weapon Classes: weapon-classes.md
+    - Law:              index.md
+    - Departments:      departments.md
+    - Weapon Classes:   weapon-classes.md
 
 # Set law directory to law instead of docs
-docs_dir: 'law'
+docs_dir:               'law'
 
 # Details Support
 extra_css:
-  - "https://cdn.rawgit.com/Richienb/0fc224502155f1f69973c473d5b5c90b/raw/ef234f31347da21d59bf05df308c7f46de7b2807/pymdown-details-polyfill.min.css"
+  - "https://cdn.jsdelivr.net/gh/Richienb/pedp@0.0.1/pedp.min.css"
 
 extra_javascript:
-  - "https://cdn.rawgit.com/Richienb/0fc224502155f1f69973c473d5b5c90b/raw/1595668df391647b3db06c4179600a29c463870b/pymdown-details-polyfill.min.js"
+  - "https://cdn.jsdelivr.net/gh/Richienb/pedp@0.0.1/pedp.min.js"
 
 # Extensions
 markdown_extensions:
   - pymdownx.arithmatex
   - pymdownx.betterem:
-      smart_enable: all
+      smart_enable:     all
   - pymdownx.caret
   - pymdownx.critic
   - pymdownx.details
   - pymdownx.emoji:
-      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+      emoji_generator:  !!python/name:pymdownx.emoji.to_svg
   - pymdownx.inlinehilite
   - pymdownx.magiclink
   - pymdownx.mark
   - pymdownx.smartsymbols
   - pymdownx.superfences
   - pymdownx.tasklist:
-      custom_checkbox: true
+      custom_checkbox:  true
   - pymdownx.tilde
   - markdown.extensions.tables
   - markdown.extensions.codehilite:
-      guess_lang: false
+      guess_lang:       false
   - markdown.extensions.def_list
   - markdown.extensions.footnotes
   - markdown.extensions.meta
   - markdown.extensions.toc:
-      permalink: true
+      permalink:        true
   - smarty
   - admonition
